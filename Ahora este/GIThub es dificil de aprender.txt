@@ -1,0 +1,6 @@
+Por que tan complicado?
+Hoy aprendi que no puedo crear un repositorio remoto localmente.
+Solo puedo pushear uno local a otro ya creado en GIThub.
+Ademas primero necesito commit todo (sino ni sentido tiene).
+Tambien puedo clonar uno de GIThub via GItbash.
+Esta bueno especificar un mensaje para cada commit.
